@@ -16,9 +16,10 @@ NOTE: If you want to interupt the game, just write "stop" during your turn
 
 
 ## Dependecies
-This software was tested using Python 3.10, and requires only two default packages:
+This software was tested using Python 3.7.2, and requires only two default packages:
 1. time
 2. path
+3. random
 
 ## Algorithms defined
 * Min-Max
