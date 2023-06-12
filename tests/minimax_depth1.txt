@@ -1,0 +1,97 @@
+>>> jogo(1)
+Do you wish to play first?
+Enter "Y" for yes, "N" for no. n
+Execution Time:  0.0009984970092773438
+-------
+-------
+-------
+-------
+-------
+---O--- 
+
+It is now X's turn.
+Make a move by choosing the collumn on which you'd like to play.
+-------
+-------
+-------
+-------
+-------
+--XO--- 
+
+Calculating play...
+
+Execution Time:  0.0009932518005371094
+-------
+-------
+-------
+-------
+---O---
+--XO--- 
+
+It is now X's turn.
+Make a move by choosing the collumn on which you'd like to play.
+-------
+-------
+-------
+---X---
+---O---
+--XO--- 
+
+Calculating play...
+
+Execution Time:  0.001001119613647461
+-------
+-------
+-------
+---X---
+--OO---
+--XO--- 
+
+It is now X's turn.
+Make a move by choosing the collumn on which you'd like to play.
+-------
+-------
+---X---
+---X---
+--OO---
+--XO--- 
+
+Calculating play...
+
+Execution Time:  0.0010013580322265625
+-------
+-------
+---X---
+--OX---
+--OO---
+--XO--- 
+
+It is now X's turn.
+Make a move by choosing the collumn on which you'd like to play.
+-------
+---X---
+---X---
+--OX---
+--OO---
+--XO--- 
+
+Calculating play...
+
+Execution Time:  0.0010094642639160156
+-------
+---X---
+--OX---
+--OX---
+--OO---
+--XO--- 
+
+It is now X's turn.
+Make a move by choosing the collumn on which you'd like to play.
+---X---
+---X---
+--OX---
+--OX---
+--OO---
+--XO--- 
+
+('X', 'Wins')

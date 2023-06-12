@@ -1,0 +1,338 @@
+>>> jogo_monte()
+Do you wish to play first?
+Enter "Y" for yes, "N" for no. n
+Execution Time:  5.443530559539795 
+Nodes visited:  1779
+-------
+-------
+-------
+-------
+-------
+---O--- 
+
+It is now X's turn.
+Make a move by choosing the collumn on which you'd like to play.
+Column: 4
+-------
+-------
+-------
+-------
+---X---
+---O--- 
+
+Calculating play...
+
+Execution Time:  4.825025796890259 
+Nodes visited:  1794
+-------
+-------
+-------
+-------
+---X---
+--OO--- 
+
+It is now X's turn.
+Make a move by choosing the collumn on which you'd like to play.
+Column: 5
+-------
+-------
+-------
+-------
+---X---
+--OOX-- 
+
+Calculating play...
+
+Execution Time:  4.569185972213745 
+Nodes visited:  1771
+-------
+-------
+-------
+-------
+---X---
+O-OOX-- 
+
+It is now X's turn.
+Make a move by choosing the collumn on which you'd like to play.
+Column: 2
+-------
+-------
+-------
+-------
+---X---
+OXOOX-- 
+
+Calculating play...
+
+Execution Time:  4.602161884307861 
+Nodes visited:  1776
+-------
+-------
+-------
+-------
+--OX---
+OXOOX-- 
+
+It is now X's turn.
+Make a move by choosing the collumn on which you'd like to play.
+Column: 2
+-------
+-------
+-------
+-------
+-XOX---
+OXOOX-- 
+
+Calculating play...
+
+Execution Time:  4.1327080726623535 
+Nodes visited:  1782
+-------
+-------
+-------
+--O----
+-XOX---
+OXOOX-- 
+
+It is now X's turn.
+Make a move by choosing the collumn on which you'd like to play.
+Column: 3
+-------
+-------
+--X----
+--O----
+-XOX---
+OXOOX-- 
+
+Calculating play...
+
+Execution Time:  4.608793497085571 
+Nodes visited:  1764
+-------
+-------
+--X----
+-OO----
+-XOX---
+OXOOX-- 
+
+It is now X's turn.
+Make a move by choosing the collumn on which you'd like to play.
+Column: 4
+-------
+-------
+--X----
+-OOX---
+-XOX---
+OXOOX-- 
+
+Calculating play...
+
+Execution Time:  4.451253652572632 
+Nodes visited:  1774
+-------
+-------
+--X----
+-OOX---
+-XOXO--
+OXOOX-- 
+
+It is now X's turn.
+Make a move by choosing the collumn on which you'd like to play.
+Column: 4
+-------
+-------
+--XX---
+-OOX---
+-XOXO--
+OXOOX-- 
+
+Calculating play...
+
+Execution Time:  3.6607415676116943 
+Nodes visited:  1763
+-------
+---O---
+--XX---
+-OOX---
+-XOXO--
+OXOOX-- 
+
+It is now X's turn.
+Make a move by choosing the collumn on which you'd like to play.
+Column: 2
+-------
+---O---
+-XXX---
+-OOX---
+-XOXO--
+OXOOX-- 
+
+Calculating play...
+
+Execution Time:  3.90653133392334 
+Nodes visited:  1750
+-------
+-O-O---
+-XXX---
+-OOX---
+-XOXO--
+OXOOX-- 
+
+It is now X's turn.
+Make a move by choosing the collumn on which you'd like to play.
+Column: 5
+-------
+-O-O---
+-XXX---
+-OOXX--
+-XOXO--
+OXOOX-- 
+
+Calculating play...
+
+Execution Time:  3.104484796524048 
+Nodes visited:  1715
+-------
+-O-O---
+-XXXO--
+-OOXX--
+-XOXO--
+OXOOX-- 
+
+It is now X's turn.
+Make a move by choosing the collumn on which you'd like to play.
+Column: 7
+-------
+-O-O---
+-XXXO--
+-OOXX--
+-XOXO--
+OXOOX-X 
+
+Calculating play...
+
+Execution Time:  3.464940071105957 
+Nodes visited:  1696
+-------
+-OOO---
+-XXXO--
+-OOXX--
+-XOXO--
+OXOOX-X 
+
+It is now X's turn.
+Make a move by choosing the collumn on which you'd like to play.
+Column: 5
+-------
+-OOOX--
+-XXXO--
+-OOXX--
+-XOXO--
+OXOOX-X 
+
+Calculating play...
+
+Execution Time:  3.8526220321655273 
+Nodes visited:  1645
+----O--
+-OOOX--
+-XXXO--
+-OOXX--
+-XOXO--
+OXOOX-X 
+
+It is now X's turn.
+Make a move by choosing the collumn on which you'd like to play.
+Column: 4
+---XO--
+-OOOX--
+-XXXO--
+-OOXX--
+-XOXO--
+OXOOX-X 
+
+Calculating play...
+
+Execution Time:  3.2956578731536865 
+Nodes visited:  1523
+-O-XO--
+-OOOX--
+-XXXO--
+-OOXX--
+-XOXO--
+OXOOX-X 
+
+It is now X's turn.
+Make a move by choosing the collumn on which you'd like to play.
+Column: 3
+-OXXO--
+-OOOX--
+-XXXO--
+-OOXX--
+-XOXO--
+OXOOX-X 
+
+Calculating play...
+
+Execution Time:  2.990156412124634 
+Nodes visited:  1522
+-OXXO--
+-OOOX--
+-XXXO--
+-OOXX--
+OXOXO--
+OXOOX-X 
+
+It is now X's turn.
+Make a move by choosing the collumn on which you'd like to play.
+Column: 7
+-OXXO--
+-OOOX--
+-XXXO--
+-OOXX--
+OXOXO-X
+OXOOX-X 
+
+Calculating play...
+
+Execution Time:  2.7223103046417236 
+Nodes visited:  1459
+-OXXO--
+-OOOX--
+-XXXO--
+-OOXX-O
+OXOXO-X
+OXOOX-X 
+
+It is now X's turn.
+Make a move by choosing the collumn on which you'd like to play.
+Column: 7
+-OXXO--
+-OOOX--
+-XXXO-X
+-OOXX-O
+OXOXO-X
+OXOOX-X 
+
+Calculating play...
+
+Execution Time:  3.0311288833618164 
+Nodes visited:  1222
+-OXXO--
+-OOOX--
+-XXXO-X
+-OOXX-O
+OXOXO-X
+OXOOXOX 
+
+It is now X's turn.
+Make a move by choosing the collumn on which you'd like to play.
+Column: 6
+-OXXO--
+-OOOX--
+-XXXO-X
+-OOXX-O
+OXOXOXX
+OXOOXOX 
+
+('X', 'Wins')

@@ -1,0 +1,154 @@
+>>> jogo_alpha_beta(3)
+Do you wish to play first?
+Enter "Y" for yes, "N" for no. n
+Execution Time:  0.04597187042236328
+-------
+-------
+-------
+-------
+-------
+---O--- 
+
+It is now X's turn.
+Make a move by choosing the collumn on which you'd like to play.
+-------
+-------
+-------
+-------
+---X---
+---O--- 
+
+Calculating play...
+
+Execution Time:  0.047974586486816406
+-------
+-------
+-------
+-------
+---X---
+--OO--- 
+
+It is now X's turn.
+Make a move by choosing the collumn on which you'd like to play.
+-------
+-------
+-------
+-------
+---X---
+--OOX-- 
+
+Calculating play...
+
+Execution Time:  0.05496788024902344
+-------
+-------
+-------
+-------
+---XO--
+--OOX-- 
+
+It is now X's turn.
+Make a move by choosing the collumn on which you'd like to play.
+-------
+-------
+-------
+-------
+---XO--
+-XOOX-- 
+
+Calculating play...
+
+Execution Time:  0.05596494674682617
+-------
+-------
+-------
+---O---
+---XO--
+-XOOX-- 
+
+It is now X's turn.
+Make a move by choosing the collumn on which you'd like to play.
+-------
+-------
+-------
+---O---
+-X-XO--
+-XOOX-- 
+
+Calculating play...
+
+Execution Time:  0.05596590042114258
+-------
+-------
+-------
+-O-O---
+-X-XO--
+-XOOX-- 
+
+It is now X's turn.
+Make a move by choosing the collumn on which you'd like to play.
+-------
+-------
+-X-----
+-O-O---
+-X-XO--
+-XOOX-- 
+
+Calculating play...
+
+Execution Time:  0.06096458435058594
+-------
+-------
+-X-----
+-O-O---
+-X-XO--
+-XOOXO- 
+
+It is now X's turn.
+Make a move by choosing the collumn on which you'd like to play.
+-------
+-------
+-X-----
+-O-O---
+-X-XO--
+XXOOXO- 
+
+Calculating play...
+
+Execution Time:  0.050968170166015625
+-------
+-------
+-X-----
+-O-OO--
+-X-XO--
+XXOOXO- 
+
+It is now X's turn.
+Make a move by choosing the collumn on which you'd like to play.
+-------
+-------
+-X-----
+-O-OO--
+XX-XO--
+XXOOXO- 
+
+Calculating play...
+
+Execution Time:  0.031981706619262695
+-------
+-------
+-X-----
+-O-OO--
+XX-XO--
+XXOOXOO 
+
+It is now X's turn.
+Make a move by choosing the collumn on which you'd like to play.
+-------
+-------
+-X-----
+-O-OO--
+XXXXO--
+XXOOXOO 
+
+('X', 'Wins')

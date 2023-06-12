@@ -1,0 +1,73 @@
+>>> jogo_monte()
+Do you wish to play first?
+Enter "Y" for yes, "N" for no. n
+Execution Time:  5.264961004257202 
+Nodes visited:  1773
+-------
+-------
+-------
+-------
+-------
+---O--- 
+
+It is now X's turn.
+Make a move by choosing the collumn on which you'd like to play.
+-------
+-------
+-------
+-------
+---X---
+---O--- 
+
+Calculating play...
+
+Execution Time:  4.488232374191284 
+Nodes visited:  1757
+-------
+-------
+-------
+-------
+---X---
+---OO-- 
+
+It is now X's turn.
+Make a move by choosing the collumn on which you'd like to play.
+-------
+-------
+-------
+-------
+---XX--
+---OO-- 
+
+Calculating play...
+
+Execution Time:  3.730807304382324 
+Nodes visited:  1782
+-------
+-------
+-------
+-------
+---XX--
+---OOO- 
+
+It is now X's turn.
+Make a move by choosing the collumn on which you'd like to play.
+-------
+-------
+-------
+-------
+---XX--
+-X-OOO- 
+
+Calculating play...
+
+Execution Time:  2.7453064918518066 
+Nodes visited:  1761
+-------
+-------
+-------
+-------
+---XX--
+-XOOOO- 
+
+('O', 'Wins')

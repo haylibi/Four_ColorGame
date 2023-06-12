@@ -1,0 +1,433 @@
+jogo(4)
+
+Do you wish to play first?
+Enter "Y" for yes, "N" for no. n
+Execution Time:  1.88285231590271
+-------
+-------
+-------
+-------
+-------
+---O--- 
+
+It is now X's turn.
+Make a move by choosing the collumn on which you'd like to play.
+
+Column: 4
+-------
+-------
+-------
+-------
+---X---
+---O--- 
+
+Calculating play...
+
+Execution Time:  2.379328966140747
+-------
+-------
+-------
+---O---
+---X---
+---O--- 
+
+It is now X's turn.
+Make a move by choosing the collumn on which you'd like to play.
+
+Column: 4
+-------
+-------
+---X---
+---O---
+---X---
+---O--- 
+
+Calculating play...
+
+Execution Time:  2.257617235183716
+-------
+-------
+---X---
+---O---
+---X---
+--OO--- 
+
+It is now X's turn.
+Make a move by choosing the collumn on which you'd like to play.
+
+Column: 5
+-------
+-------
+---X---
+---O---
+---X---
+--OOX-- 
+
+Calculating play...
+
+Execution Time:  1.8822963237762451
+-------
+-------
+---X---
+---O---
+---XO--
+--OOX-- 
+
+It is now X's turn.
+Make a move by choosing the collumn on which you'd like to play.
+
+Column: 3
+-------
+-------
+---X---
+---O---
+--XXO--
+--OOX-- 
+
+Calculating play...
+
+Execution Time:  1.5633111000061035
+-------
+-------
+---X---
+--OO---
+--XXO--
+--OOX-- 
+
+It is now X's turn.
+Make a move by choosing the collumn on which you'd like to play.
+
+Column: 5
+-------
+-------
+---X---
+--OOX--
+--XXO--
+--OOX-- 
+
+Calculating play...
+
+Execution Time:  1.3663685321807861
+-------
+-------
+--OX---
+--OOX--
+--XXO--
+--OOX-- 
+
+It is now X's turn.
+Make a move by choosing the collumn on which you'd like to play.
+
+Column: 6
+-------
+-------
+--OX---
+--OOX--
+--XXO--
+--OOXX- 
+
+Calculating play...
+
+Execution Time:  1.3885350227355957
+-------
+-------
+--OX---
+--OOX--
+--XXO--
+O-OOXX- 
+
+It is now X's turn.
+Make a move by choosing the collumn on which you'd like to play.
+
+Column: 2
+-------
+-------
+--OX---
+--OOX--
+--XXO--
+OXOOXX- 
+
+Calculating play...
+
+Execution Time:  1.4982764720916748
+-------
+--O----
+--OX---
+--OOX--
+--XXO--
+OXOOXX- 
+
+It is now X's turn.
+Make a move by choosing the collumn on which you'd like to play.
+
+Column: 3
+--X----
+--O----
+--OX---
+--OOX--
+--XXO--
+OXOOXX- 
+
+Calculating play...
+
+Execution Time:  0.9937810897827148
+--X----
+--OO---
+--OX---
+--OOX--
+--XXO--
+OXOOXX- 
+
+It is now X's turn.
+Make a move by choosing the collumn on which you'd like to play.
+
+Column: 4
+--XX---
+--OO---
+--OX---
+--OOX--
+--XXO--
+OXOOXX- 
+
+Calculating play...
+
+Execution Time:  0.49997854232788086
+--XX---
+--OO---
+--OX---
+--OOX--
+O-XXO--
+OXOOXX- 
+
+It is now X's turn.
+Make a move by choosing the collumn on which you'd like to play.
+
+Column: 1
+--XX---
+--OO---
+--OX---
+X-OOX--
+O-XXO--
+OXOOXX- 
+
+Calculating play...
+
+Execution Time:  0.325969934463501
+--XX---
+--OO---
+--OX---
+X-OOX--
+O-XXOO-
+OXOOXX- 
+
+It is now X's turn.
+Make a move by choosing the collumn on which you'd like to play.
+
+Column: 7
+--XX---
+--OO---
+--OX---
+X-OOX--
+O-XXOO-
+OXOOXXX 
+
+Calculating play...
+
+Execution Time:  0.3738589286804199
+--XX---
+--OO---
+--OXO--
+X-OOX--
+O-XXOO-
+OXOOXXX 
+
+It is now X's turn.
+Make a move by choosing the collumn on which you'd like to play.
+
+Column: 7
+--XX---
+--OO---
+--OXO--
+X-OOX--
+O-XXOOX
+OXOOXXX 
+
+Calculating play...
+
+Execution Time:  0.342315673828125
+--XX---
+--OOO--
+--OXO--
+X-OOX--
+O-XXOOX
+OXOOXXX 
+
+It is now X's turn.
+Make a move by choosing the collumn on which you'd like to play.
+
+Column: 7
+--XX---
+--OOO--
+--OXO--
+X-OOX-X
+O-XXOOX
+OXOOXXX 
+
+Calculating play...
+
+Execution Time:  0.15781903266906738
+--XX---
+--OOO--
+--OXO-O
+X-OOX-X
+O-XXOOX
+OXOOXXX 
+
+It is now X's turn.
+Make a move by choosing the collumn on which you'd like to play.
+
+Column: 6
+--XX---
+--OOO--
+--OXO-O
+X-OOXXX
+O-XXOOX
+OXOOXXX 
+
+Calculating play...
+
+Execution Time:  0.16679739952087402
+--XXO--
+--OOO--
+--OXO-O
+X-OOXXX
+O-XXOOX
+OXOOXXX 
+
+It is now X's turn.
+Make a move by choosing the collumn on which you'd like to play.
+
+Column: 7
+--XXO--
+--OOO-X
+--OXO-O
+X-OOXXX
+O-XXOOX
+OXOOXXX 
+
+Calculating play...
+
+Execution Time:  0.03939962387084961
+--XXO--
+--OOO-X
+--OXOOO
+X-OOXXX
+O-XXOOX
+OXOOXXX 
+
+It is now X's turn.
+Make a move by choosing the collumn on which you'd like to play.
+
+Column: 6
+--XXO--
+--OOOXX
+--OXOOO
+X-OOXXX
+O-XXOOX
+OXOOXXX 
+
+Calculating play...
+
+Execution Time:  0.03736734390258789
+--XXO--
+--OOOXX
+O-OXOOO
+X-OOXXX
+O-XXOOX
+OXOOXXX 
+
+It is now X's turn.
+Make a move by choosing the collumn on which you'd like to play.
+
+Column: 7
+--XXO-X
+--OOOXX
+O-OXOOO
+X-OOXXX
+O-XXOOX
+OXOOXXX 
+
+Calculating play...
+
+Execution Time:  0.007756948471069336
+--XXO-X
+O-OOOXX
+O-OXOOO
+X-OOXXX
+O-XXOOX
+OXOOXXX 
+
+It is now X's turn.
+Make a move by choosing the collumn on which you'd like to play.
+
+Column: 1
+X-XXO-X
+O-OOOXX
+O-OXOOO
+X-OOXXX
+O-XXOOX
+OXOOXXX 
+
+Calculating play...
+
+Execution Time:  0.0027942657470703125
+X-XXO-X
+O-OOOXX
+O-OXOOO
+X-OOXXX
+OOXXOOX
+OXOOXXX 
+
+It is now X's turn.
+Make a move by choosing the collumn on which you'd like to play.
+
+Column: 2
+X-XXO-X
+O-OOOXX
+O-OXOOO
+XXOOXXX
+OOXXOOX
+OXOOXXX 
+
+Calculating play...
+
+Execution Time:  0.0010342597961425781
+X-XXOOX
+O-OOOXX
+O-OXOOO
+XXOOXXX
+OOXXOOX
+OXOOXXX 
+
+It is now X's turn.
+Make a move by choosing the collumn on which you'd like to play.
+
+Column: 2
+X-XXOOX
+O-OOOXX
+OXOXOOO
+XXOOXXX
+OOXXOOX
+OXOOXXX 
+
+Calculating play...
+
+Execution Time:  0.00099945068359375
+X-XXOOX
+OOOOOXX
+OXOXOOO
+XXOOXXX
+OOXXOOX
+OXOOXXX 
+
+Out[33]: ('O', 'Wins')
